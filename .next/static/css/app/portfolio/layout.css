@@ -1,0 +1,50 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[3]!./src/app/portfolio/page.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+.page_mainTitle__evSH5 {
+  font-size: 100px;
+}
+
+.page_container__EVQ61 {
+}
+
+.page_selectTitle__qzKRb {
+  margin: 20px 0px;
+}
+
+.page_items__fwAwV {
+  display: flex;
+  gap: 50px;
+}
+
+.page_item__KPUlT {
+  border: 5px solid #bbb;
+  border-radius: 5px;
+  width: 300px;
+  height: 400px;
+  position: relative;
+  background-size: cover !important;
+}
+
+.page_item__KPUlT:nth-child(1) {
+  background: url("/illustration.png");
+}
+.page_item__KPUlT:nth-child(2) {
+  background: url("/websites.jpg");
+}
+.page_item__KPUlT:nth-child(3) {
+  background: url("/apps.jpg");
+}
+
+.page_title__0VW48 {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.page_item__KPUlT:hover .page_title__0VW48 {
+  color: #53c28b;
+}
+
